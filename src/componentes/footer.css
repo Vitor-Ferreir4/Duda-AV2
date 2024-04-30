@@ -1,0 +1,29 @@
+.baixo{
+    background-color: rgb(25, 87, 255);
+    color: white;
+    align-items: center;
+    padding: 15px 750px;
+}
+
+.sesi{
+    position: relative;
+    right: 700px;
+    top: 5px;
+}
+
+.textinho1{
+    position: relative;
+    z-index: 1000;
+    bottom: 50px;
+    font-size: 12px;
+    white-space: nowrap;
+}
+
+.textinho2{
+    position: relative;
+    z-index: 1000;
+    bottom: 50px;
+    font-size: 12px;
+    font-weight: bold;
+    white-space: nowrap;
+}

@@ -1,0 +1,39 @@
+.nemezes {
+    background-color: rgb(25, 87, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60px;
+    padding: 0 623px;
+    position: relative;
+    z-index: 2;
+    
+  }
+  
+  .nemezes-nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    position: relative;
+    left: 620px;
+  }
+  
+  .nemezes-nav-item {
+    margin-right: 30px;
+    font-size: 15px;
+    white-space: nowrap;
+  }
+  
+  .nemezes-nav-link {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 30px;
+    transition: 0.3s;
+  }
+  
+  .nemezes-nav-link:hover {
+    color: #fff;
+    text-decoration: underline;
+  }
